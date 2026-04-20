@@ -1,2 +1,3 @@
 # Volatility-Index-Forecast
-Using time series analysis to do the forecasts.
+
+Forecasting VIX for April 20, 2026 - April 24-2026
